@@ -1,0 +1,43 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/hello-world/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/roar-chardonnay-santa-lucia/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/brandon-gregory-brookshire-vineyard-merlot-knights-valley/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/st-romedius-muscat-canelli-clement-hills/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/sample-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/harpuneetkaurr/
+        </loc>
+    </url>
+</urlset>
